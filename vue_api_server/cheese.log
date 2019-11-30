@@ -1,0 +1,8 @@
+[2019-11-30T17:54:01.232] [DEBUG] cheese - login => username:duanke,password:123456
+[2019-11-30T17:54:01.236] [DEBUG] cheese - duanke
+[2019-11-30T17:54:01.250] [DEBUG] cheese - null
+[2019-11-30T17:54:01.251] [DEBUG] cheese - null
+[2019-11-30T17:57:32.461] [DEBUG] cheese - login => username:admin,password:123456
+[2019-11-30T17:57:32.461] [DEBUG] cheese - admin
+[2019-11-30T17:57:32.475] [DEBUG] cheese - null
+[2019-11-30T17:57:32.475] [DEBUG] cheese - null
