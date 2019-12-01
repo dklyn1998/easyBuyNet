@@ -78,3 +78,27 @@
 [2019-12-01T15:06:40.525] [DEBUG] cheese - admin
 [2019-12-01T15:06:40.603] [DEBUG] cheese - null
 [2019-12-01T15:06:40.603] [DEBUG] cheese - null
+[2019-12-01T15:58:43.975] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-01T15:58:43.978] [DEBUG] cheese - admin
+[2019-12-01T15:58:43.995] [DEBUG] cheese - null
+[2019-12-01T15:58:43.997] [DEBUG] cheese - null
+[2019-12-01T16:32:02.243] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-01T16:32:02.243] [DEBUG] cheese - admin
+[2019-12-01T16:32:02.253] [DEBUG] cheese - null
+[2019-12-01T16:32:02.253] [DEBUG] cheese - null
+[2019-12-01T16:35:43.180] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-01T16:35:43.180] [DEBUG] cheese - admin
+[2019-12-01T16:35:43.185] [DEBUG] cheese - null
+[2019-12-01T16:35:43.185] [DEBUG] cheese - null
+[2019-12-01T16:36:05.074] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-01T16:36:05.074] [DEBUG] cheese - admin
+[2019-12-01T16:36:05.089] [DEBUG] cheese - null
+[2019-12-01T16:36:05.089] [DEBUG] cheese - null
+[2019-12-01T19:54:11.929] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-01T19:54:11.929] [DEBUG] cheese - admin
+[2019-12-01T19:54:11.933] [DEBUG] cheese - null
+[2019-12-01T19:54:11.933] [DEBUG] cheese - null
+[2019-12-01T19:57:21.211] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-01T19:57:21.211] [DEBUG] cheese - admin
+[2019-12-01T19:57:21.215] [DEBUG] cheese - null
+[2019-12-01T19:57:21.215] [DEBUG] cheese - null
