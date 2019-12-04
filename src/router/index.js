@@ -6,6 +6,7 @@ import welcome from '../components/welcome.vue'
 import users from '../components/user/users.vue'
 import rights from '../components/power/rights.vue'
 import roles from '../components/power/roles.vue'
+import cate from '../components/goods/cate.vue'
 
 Vue.use(Router)
 
@@ -25,7 +26,9 @@ const router = new Router({
         // 跳转到rights
         { path: '/rights', component: rights },
         // 跳转到roles
-        { path: '/roles', component: roles }
+        { path: '/roles', component: roles },
+        // 商品分类 cate
+        { path: '/categories', component: cate }
       ] }
 
   ]
