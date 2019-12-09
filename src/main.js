@@ -9,6 +9,12 @@ import './assets/css/global.css'
 // 导入axios
 import axios from 'axios'
 import TreeTable from 'vue-table-with-tree-grid'
+// 导入富文本编辑器
+import VueQuillEditor from 'vue-quill-editor'
+// require styles导入富文本编辑器对应的样式
+import 'quill/dist/quill.core.css'
+import 'quill/dist/quill.snow.css'
+import 'quill/dist/quill.bubble.css'
 
 // 配置根路径
 axios.defaults.baseURL = 'http://127.0.0.1:8888/api/private/v1/'
@@ -34,6 +40,8 @@ Vue.filter('dateFormat', function (originVal) {
 
 // 全局注册TreeTable
 Vue.component('tree-table', TreeTable)
+// 注册富文本编辑器为全局可用的组件
+Vue.use(VueQuillEditor)
 new Vue({
   router,
   render: h => h(App)
